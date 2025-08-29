@@ -36,3 +36,10 @@ This project provides a comprehensive solution for parsing and repairing malform
    - Gracefully handles parsing failures with meaningful error messages
 
 The module is particularly useful for applications that consume LLM-generated JSON responses, which often contain syntax errors or formatting issues that prevent direct parsing.
+
+## todo
+1. Add support for more JSON parsing libraries
+2. Add support for more JSON schema types
+3. Add support for more JSON schema validation rules
+4. Make the module more robust and reliable
+5. Add more tests on the small LLMs output
